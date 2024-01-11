@@ -5,7 +5,7 @@
     - [**OpenGL Rendering Pipeline**](./capitulo-1/capitulo1.md#opengl-rendering-pipeline)
     - [**Preparando o envio de dados no OpenGL**](./capitulo-1/capitulo1.md#preparando-o-envio-de-dados-no-opengl)
     - [**Enviando dados no OpenGL**](./capitulo-1/capitulo1.md#enviando-dados-no-opengl)
-    - [**Vertex Shading**]./capitulo-1/capitulo1.md#vertex-shading)
+    - [**Vertex Shading**](./capitulo-1/capitulo1.md#vertex-shading)
     - [**Tessellation Shading**](./capitulo1.md#tessellation-shading)
     - [**Geometry Shading**](./capitulo-1/capitulo1.md#geometry-shading)
     - [**Primitive Assembly**](./capitulo-1/capitulo1.md#primitive-assembly)
